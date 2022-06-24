@@ -5,9 +5,6 @@
 - 👯 Colaborando no projeto da BRAdev 
 - 📫 Contate-me no email: brenogam@gmail.com
 
-
-
-
 <div align="center">
   <a href="https://github.com/brenogam">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenogam&show_icons=false&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
@@ -32,6 +29,5 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/brenogam/brenogam/blob/output/github-contribution-grid-snake.svg)
- 
  
 </div>
