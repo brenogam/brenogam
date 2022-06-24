@@ -1,6 +1,6 @@
 ### Bem vindo!
 
-# Atualmente #
+# Sobre mim #
 
 - 🔭 Trabalho com back-end 
 - 🌱 Estudando PHP 
