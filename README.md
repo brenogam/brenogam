@@ -1,4 +1,6 @@
-### Bem vindo! Eu sou o Breno Gam 
+### Bem vindo!
+
+# Atualmente #
 
 - 🔭 Trabalho com back-end 
 - 🌱 Estudando PHP 
