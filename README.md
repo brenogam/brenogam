@@ -1,6 +1,6 @@
-### Bem vindo!
+## Bem vindo! ## 
 
-# ----- #
+
 
 - 🔭 Trabalho com back-end 
 - 🌱 Estudando PHP 
