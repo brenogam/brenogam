@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trabalho com back-end 
+- 🔭 Trabalhando com back-end 
 - 🌱 Estudando PHP 
 - 👯 Colaborando no projeto da BRAdev 
 - 📫 Contate-me no email: brenogam@gmail.com
