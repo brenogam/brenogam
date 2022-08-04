@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/brenogam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenogam&show_icons=false&theme=apprentice&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenogam&layout=compact&langs_count=7&theme=apprentice"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenogam&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenogam&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
